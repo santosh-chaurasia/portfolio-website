@@ -111,7 +111,7 @@ My portfolio has data analytics projects made with Python, SQL, Excel and Power 
 
 ## About me
 
-I am Santosh Chaurasia. I work as an IT Helpdesk Executive, I have a B.Sc. in Information Technology, and I am currently doing my M.Sc. in Data Science at the University of Mumbai. I am looking for Data Analyst opportunities.
+I am Santosh Chaurasia. I work as an IT Helpdesk Executive, I am a B.Sc. IT graduate and currently pursuing M.Sc. in Data Science at the University of Mumbai.. I am looking for Data Analyst opportunities.
 
 ---
 
